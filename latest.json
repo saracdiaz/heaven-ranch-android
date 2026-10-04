@@ -1,6 +1,6 @@
 {
-  "downloadUrl": "https://github.com/saracdiaz/heaven-ranch-android/releases/download/v1.1.0/Heaven-Ranch-1.1.0.apk",
-  "sha256": "9bdaef1c8da624c41db6111e0b10e4481d746605aa3b7a1351106c640f3091fc",
-  "versionName": "1.1.0",
-  "versionCode": 2
+  "sha256": "d4d4b6f40e41cdc57e67efad63fcdd103a4b931ba81a3a6252f8252bbfcc2590",
+  "versionName": "1.2.0",
+  "versionCode": 3,
+  "downloadUrl": "https://github.com/saracdiaz/heaven-ranch-android/releases/download/v1.2.0/Heaven-Ranch-1.2.0.apk"
 }
